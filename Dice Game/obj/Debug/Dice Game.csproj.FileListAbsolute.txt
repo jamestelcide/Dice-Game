@@ -1,0 +1,16 @@
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\bin\Debug\Dice Game.exe.config
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\bin\Debug\Dice Game.exe
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\bin\Debug\Dice Game.pdb
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\obj\Debug\Dice Game.csproj.AssemblyReference.cache
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\obj\Debug\Dice Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\obj\Debug\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\obj\Debug\Dice Game.exe
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game\Dice Game\obj\Debug\Dice Game.pdb
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\bin\Debug\Dice Game.exe.config
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\bin\Debug\Dice Game.exe
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\bin\Debug\Dice Game.pdb
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\obj\Debug\Dice Game.csproj.AssemblyReference.cache
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\obj\Debug\Dice Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\obj\Debug\Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\obj\Debug\Dice Game.exe
+C:\Users\james\Documents\Code\Carreer\Projects\Dice Game\Dice Game V2\Dice Game\obj\Debug\Dice Game.pdb
