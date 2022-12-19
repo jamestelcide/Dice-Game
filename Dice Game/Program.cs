@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-//V2
 namespace Dice_Game
 {
     internal class Program
